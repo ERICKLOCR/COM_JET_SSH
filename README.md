@@ -5,7 +5,8 @@
 
 ## Tabla de Contenidos
 
-1. [Configuración de la IP estática](#Configuración-de-la-IP-estática)
+1. [Comentarios generales](#Comentarios-generales)
+2. [Configuración de la IP estática](#Configuración-de-la-IP-estática)
     1. [En la computadora](#En-la-computadora)
 3. [Basic Usage](#basic-usage)
     1. [Quick Start](#quick-start)
