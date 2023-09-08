@@ -3,7 +3,7 @@
 # Configuración de conexión remota mediante  SSH entre JETSON y computadora
 
 
-# Tabla de Contenidos
+## Tabla de Contenidos
 
 1. [Configuración de la IP estática](#Configuración-de-la-IP-estática)
     1. [En la computadora](#En-la-computadora)
@@ -16,6 +16,7 @@ Para poder crear la conexión entre la computadora y la JETSON tenemos que tener
     
 
 ## Configuración de la IP estática 
+
 ### En la computadora 
 
  
