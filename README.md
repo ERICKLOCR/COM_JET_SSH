@@ -83,7 +83,7 @@ En esta parte debemos asegurarnos que nos dio la nueva IP que nosotros le asigna
     <img src=./IMÁGENES/W5.png alt="drawing" width="600"/>
 </p>
 
-## En la Jetson Nano
+### En la Jetson Nano
 
 
 
@@ -118,7 +118,7 @@ export ROS_IP=192.168.63.188
 
 ```
 
-# Solución al problema de transferencia de datos
+### Solución al problema de transferencia de datos
 
 rostopic list 
 
