@@ -7,7 +7,7 @@ Para poder crear la conexión entre la computadora y la JETSON tenemos que tener
     
 # Table of Contents
 
-1. [Configuración de la IP estática de la computadora](#Configuración de la IP estática de la computadora)
+1. [Configuración de la IP estática de la computadora](#Configuración-de-la-IP-estática-de-la-computadora)
 2. [Basic Usage](#basic-usage)
     1. [Quick Start](#quick-start)
        
