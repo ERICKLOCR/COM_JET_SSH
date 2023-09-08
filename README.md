@@ -8,6 +8,7 @@
 1. [Comentarios generales](#Comentarios-generales)
 2. [Configuración de la IP estática](#Configuración-de-la-IP-estática)
     1. [En la computadora](#En-la-computadora)
+    2. [En la Jetson Nano](#En-la-Jetson-Nano)
 3. [Basic Usage](#basic-usage)
     1. [Quick Start](#quick-start)
        
@@ -80,6 +81,23 @@ En esta parte debemos asegurarnos que nos dio la nueva IP que nosotros le asigna
 <p align='center'>
     <img src=./IMÁGENES/W5.png alt="drawing" width="600"/>
 </p>
+
+# En la Jetson Nano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
