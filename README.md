@@ -16,7 +16,7 @@ Para poder crear la conexión entre la computadora y la JETSON tenemos que tener
 
 
 <p align='center'>
-    <img src=./IMAGENES/W1.png alt="drawing" width="600"/>
+    <img src=./IMÁGENES/W1.png alt="drawing" width="600"/>
 </p>
 
 
@@ -25,7 +25,7 @@ Ir a la terminal y ejecutar
 ifconfig  
 ```
 <p align='center'>
-    <img src=./IMAGENES/W2.png alt="drawing" width="600"/>
+    <img src=./IMÁGENES/W2.png alt="drawing" width="600"/>
 </p>
 
 En esta ventana nos mostrara la ip que se tiene asignada al dispositivo y la mascara 
@@ -33,14 +33,14 @@ En esta ventana nos mostrara la ip que se tiene asignada al dispositivo y la mas
 Ahora ir a configuraciones de la red que nos conectamos y **pulsar en IPv4** 
 
 <p align='center'>
-    <img src=./IMAGENES/W3.png alt="drawing" width="600"/>
+    <img src=./IMÁGENES/W3.png alt="drawing" width="600"/>
 </p>
 
 Posteriormente **pulsar en la opción de Manual** 
 
 
 <p align='center'>
-    <img src=./IMAGENES/W4.png alt="drawing" width="600"/>
+    <img src=./IMÁGENES/W4.png alt="drawing" width="600"/>
 </p>
 
 **Colocar los siguientes datos**
@@ -67,7 +67,7 @@ ifconfig
 En esta parte debemos asegurarnos que nos dio la nueva IP que nosotros le asignamos al dispositivo 
 
 <p align='center'>
-    <img src=./IMAGENES/W5.png alt="drawing" width="600"/>
+    <img src=./IMÁGENES/W5.png alt="drawing" width="600"/>
 </p>
 
 
@@ -121,7 +121,7 @@ export ROS_HOSTNAME=192.168.43.178
 ## 2 Configuraciones en la Computadota 
 
 <p align='center'>
-    <img src=./IMAGENES/W1.png alt="drawing" width="600"/>
+    <img src=./IMÁGENES/W1.png alt="drawing" width="600"/>
 </p>
 ```
 sudo gedit hosts
