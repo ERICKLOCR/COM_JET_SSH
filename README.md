@@ -2,10 +2,16 @@
 
 # Configuración de conexión remota mediante  SSH entre JETSON y computadora
 
-Comentarios generales
+## Comentarios generales
 Para poder crear la conexión entre la computadora y la JETSON tenemos que tener claro que la IP cambian si es que no se tiene configurada una IP estática a lo que no no deja conectar en la siguiente conexión que se desea establecer. Primeramente se configuraran una IP estática tanto para la JETSON como para la computadora.
     
+# Table of Contents
 
+1. [Configuración de la IP estática de la computadora](#Configuración de la IP estática de la computadora)
+2. [Basic Usage](#basic-usage)
+    1. [Quick Start](#quick-start)
+       
+# Installation
 
 
 ## Configuración de la IP estática de la computadora 
