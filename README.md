@@ -9,8 +9,9 @@
 2. [Configuración de la IP estática](#Configuración-de-la-IP-estática)
     1. [En la computadora](#En-la-computadora)
     2. [En la Jetson Nano](#En-la-Jetson-Nano)
-3. [Basic Usage](#basic-usage)
-    1. [Quick Start](#quick-start)
+3. [Prueba de conexión](#Prueba-de-conexión)
+    1. [Solución al problema de transferencia de datos](#Solución-al-problema-de-transferencia-de-datos) 
+
        
 
 ## Comentarios generales
@@ -82,7 +83,7 @@ En esta parte debemos asegurarnos que nos dio la nueva IP que nosotros le asigna
     <img src=./IMÁGENES/W5.png alt="drawing" width="600"/>
 </p>
 
-# En la Jetson Nano
+## En la Jetson Nano
 
 
 
@@ -101,7 +102,7 @@ En esta parte debemos asegurarnos que nos dio la nueva IP que nosotros le asigna
 
 
 
-# Prueba de conexión  
+## Prueba de conexión  
 
 Ir a la teminal y ejecutar 
 
@@ -117,7 +118,7 @@ export ROS_IP=192.168.63.188
 
 ```
 
-
+# Solución al problema de transferencia de datos
 
 rostopic list 
 
